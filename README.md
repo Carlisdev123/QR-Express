@@ -22,8 +22,7 @@ QR Express is a free online tool that allows you to effortlessly generate QR Cod
 
 ## Authors
 
-- Samuel Ojo | Nigeria ![Nigeria Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/20px-Flag_of_Nigeria.svg.png)
-- Olawale Fatokun | Turkey ![Turkey Flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Flag_of_Turkey.svg/20px-Flag_of_Turkey.svg.png)
+- Carlis Coleman
 
 ## License
 
